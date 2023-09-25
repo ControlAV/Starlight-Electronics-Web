@@ -95,7 +95,7 @@ export const AboutAs = () => {
                             Nuestra <span className='text-sky-600'> visión </span>
                         </h3>
                         <p className="pt-4 pb-8 m-0 leading-7 text-gray-400 border-0 border-gray-300 sm:pr-10 lg:text-lg text-justify">
-                            En el 2023, Starlight Electronics SAS
+                            En el 2025, Starlight Electronics SAS
                             será una empresa reconocida en la
                             industria del entretenimiento y
                             automatización a nivel internacional y
